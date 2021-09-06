@@ -1,2 +1,0 @@
-hello this is BDA Class
-BDA refers to bigdata analytics
